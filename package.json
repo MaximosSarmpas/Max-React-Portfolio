@@ -4,37 +4,37 @@
     "private": true,
     "homepage": "https://MaximosSarmpas.github.io/Max-React-Portfolio",
     "dependencies": {
-      "@emotion/react": "^11.10.5",
-      "@emotion/styled": "^11.10.5",
-      "@mui/material": "^5.11.5",
-      "gh-pages": "^3.2.3",
-      "react": "^17.0.1",
-      "react-dom": "^17.0.1",
-      "react-scripts": "4.0.3"
+        "@emotion/react": "^11.10.5",
+        "@emotion/styled": "^11.10.5",
+        "@mui/material": "^5.11.5",
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1",
+        "react-scripts": "4.0.3"
     },
     "scripts": {
-      "predeploy": "npm run build",
-      "deploy": "gh-pages -d build",
-      "start": "react-scripts --openssl-legacy-provider start",
-      "build": "react-scripts --openssl-legacy-provider build",
-      "test": "react-scripts test",
-      "eject": "react-scripts eject"
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
+        "start": "react-scripts --openssl-legacy-provider start",
+        "build": "react-scripts --openssl-legacy-provider build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
     },
     "eslintConfig": {
-      "extends": "react-app"
+        "extends": "react-app"
     },
     "browserslist": {
-      "production": [
-        ">0.2%",
-        "not dead",
-        "not op_mini all"
-      ],
-      "development": [
-        "last 1 chrome version",
-        "last 1 firefox version",
-        "last 1 safari version"
-      ]
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "gh-pages": "^5.0.0"
     }
-  }
-    
-
+}
