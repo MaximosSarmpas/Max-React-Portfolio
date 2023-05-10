@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Max-React-Portfolio/static/css/main.d7b797e4.chunk.css",
+    "main.js": "/Max-React-Portfolio/static/js/main.12d14986.chunk.js",
+    "main.js.map": "/Max-React-Portfolio/static/js/main.12d14986.chunk.js.map",
+    "runtime-main.js": "/Max-React-Portfolio/static/js/runtime-main.1045882e.js",
+    "runtime-main.js.map": "/Max-React-Portfolio/static/js/runtime-main.1045882e.js.map",
+    "static/js/2.3a71ccd3.chunk.js": "/Max-React-Portfolio/static/js/2.3a71ccd3.chunk.js",
+    "static/js/2.3a71ccd3.chunk.js.map": "/Max-React-Portfolio/static/js/2.3a71ccd3.chunk.js.map",
+    "index.html": "/Max-React-Portfolio/index.html",
+    "static/css/main.d7b797e4.chunk.css.map": "/Max-React-Portfolio/static/css/main.d7b797e4.chunk.css.map",
+    "static/js/2.3a71ccd3.chunk.js.LICENSE.txt": "/Max-React-Portfolio/static/js/2.3a71ccd3.chunk.js.LICENSE.txt",
+    "static/media/Personal-Pic.cb0d89ae.jpg": "/Max-React-Portfolio/static/media/Personal-Pic.cb0d89ae.jpg",
+    "static/media/book-search.ca709f33.jpg": "/Max-React-Portfolio/static/media/book-search.ca709f33.jpg",
+    "static/media/cover.0f31d1a7.jpg": "/Max-React-Portfolio/static/media/cover.0f31d1a7.jpg",
+    "static/media/e-commerce.2bd03508.jpg": "/Max-React-Portfolio/static/media/e-commerce.2bd03508.jpg",
+    "static/media/employe-tracker.dd499be5.jpg": "/Max-React-Portfolio/static/media/employe-tracker.dd499be5.jpg",
+    "static/media/note-taker.8c45e095.jpg": "/Max-React-Portfolio/static/media/note-taker.8c45e095.jpg",
+    "static/media/team-profile-gen.b0d32744.png": "/Max-React-Portfolio/static/media/team-profile-gen.b0d32744.png",
+    "static/media/tech-blog.347a3a2e.jpg": "/Max-React-Portfolio/static/media/tech-blog.347a3a2e.jpg",
+    "static/media/weather-dashboard.2c163e97.jpg": "/Max-React-Portfolio/static/media/weather-dashboard.2c163e97.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1045882e.js",
+    "static/js/2.3a71ccd3.chunk.js",
+    "static/css/main.d7b797e4.chunk.css",
+    "static/js/main.12d14986.chunk.js"
+  ]
+}
