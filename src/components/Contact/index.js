@@ -1,14 +1,15 @@
 import React, { useState } from "react";
 
 import { validateEmail } from "../../utils/helpers";
-
+// define Contact component
 function Contact() {
+  // set initial state for form data using useState hook
   const [formState, setFormState] = useState({
     name: "",
     email: "",
     message: "",
   });
-
+// set initial state for error message using useState hook
   const [errorMessage, setErrorMessage] = useState("");
   const { name, email, message } = formState;
 
