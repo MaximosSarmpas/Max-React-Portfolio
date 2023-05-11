@@ -2,7 +2,7 @@
   ![Github License](https://img.shields.io/badge/license-MIT-green)
   ![Screenshot react-portfolio](https://github.com/MaximosSarmpas/Max-React-Portfolio/assets/117605647/ae816e8f-9219-4300-8ccd-48a483e7aa73)
 
-  
+  LINK: https://maximossarmpas.github.io/Max-React-Portfolio/
   ## Table of Contents
   
   [Description](#description)
